@@ -1,12 +1,68 @@
-# React + Vite
+<p align="center">
+  <img src="https://your-image-url.com/logo.png" alt="POS Logo" width="120" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">🧾 RESTRO POS System</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+  A modern, full-stack Point of Sale system for restaurants and cafes — built with ❤️ using the MERN stack and Tailwind CSS.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3.3.2-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-6.x-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖥️ Features
+
+- 📋 Product & Category Management
+- 🛒 Order and Cart System
+- 👨‍🍳 Staff & Role Permissions
+- 📈 Sales Dashboard & Analytics
+- 💾 Offline-first design (Coming Soon)
+- 🔐 Secure login and JWT auth
+
+---
+
+## 🧰 Tech Stack
+
+| Frontend      | Backend       | Database   | Styling        |
+|---------------|---------------|------------|----------------|
+| React.js      | Node.js       | MongoDB    | Tailwind CSS   |
+| React Router  | Express.js    | Mongoose   | PostCSS        |
+
+---
+
+## 📸 Screenshots
+
+> You can insert UI screenshots here once your app is ready.
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Node.js v20+
+- MongoDB
+- npm or yarn
+
+---
+
+### 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/restro-pos.git
+cd restro-pos
+
+# Install dependencies for client and server
+cd client
+npm install
+
+cd ../server
+npm install
