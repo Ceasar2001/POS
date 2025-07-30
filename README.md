@@ -39,7 +39,7 @@
 
 ## 📸 Screenshots
 
-> You can insert UI screenshots here once your app is ready.
+![Screenshot Description](src\assets\images\screenshot_homescreen.jpg)
 
 ---
 
