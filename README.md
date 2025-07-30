@@ -39,7 +39,7 @@
 
 ## 📸 Screenshots
 
-![Screenshot Description](blob:https://www.facebook.com/372515df-ea68-4a21-a2b4-e7ae87ca14b3)
+![Home Screen](src/assets/images/screenshot_homescreen.jpg)
 
 ---
 
