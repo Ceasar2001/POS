@@ -2,7 +2,7 @@
   <img src="https://your-image-url.com/logo.png" alt="POS Logo" width="120" />
 </p>
 
-<h1 align="center">🧾 RESTRO POS System</h1>
+<h1 align="center">🧾 RESTRO POS SYSTEM</h1>
 
 <p align="center">
   A modern, full-stack Point of Sale system for restaurants and cafes — built with ❤️ using the MERN stack and Tailwind CSS.
